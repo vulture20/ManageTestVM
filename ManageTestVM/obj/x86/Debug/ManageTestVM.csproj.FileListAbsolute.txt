@@ -1,0 +1,11 @@
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\bin\Debug\ManageTestVM.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\bin\Debug\ManageTestVM.pdb
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.Form1.resources
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.Properties.Resources.resources
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.csproj.GenerateResource.Cache
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.pdb
+C:\Users\Schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.csprojResolveAssemblyReference.cache
+C:\Users\Schröpel\documents\visual studio 2010\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.Form2.resources
+C:\Users\Schröpel\Documents\Visual Studio 2013\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.exe
+C:\Users\Schröpel\Documents\Visual Studio 2013\Projects\ManageTestVM\ManageTestVM\obj\x86\Debug\ManageTestVM.pdb
